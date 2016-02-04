@@ -1,0 +1,19 @@
+body {
+	background: yellow;
+	font-family: Helvetica, sans-serif; 
+	font-size: 20px; 
+}
+
+title {
+	font-size: 100px;
+	color: blue;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 70px;
+}
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 40px;
+}
